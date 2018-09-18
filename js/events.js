@@ -12,7 +12,11 @@ function frameIt() {
   })
 }
 
-function 
+function pressIt() {
+  $('input').on('keydown', function(e){
+    
+  })
+}
 
 
 $(document).ready(function(){
